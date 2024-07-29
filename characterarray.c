@@ -6,4 +6,5 @@ C[1]='O';
 C[2]='H';
 C[3]='N';
 printf("%s",C);
+printf("Ronald is tenacious");
 }
