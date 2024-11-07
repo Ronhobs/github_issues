@@ -1,4 +1,4 @@
-//Pointers and Arrays
+//Pointers and Arrays for Github Practice
 #include<stdio.h>
 void print(char *C){
     
